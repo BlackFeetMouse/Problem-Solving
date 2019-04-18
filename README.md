@@ -6,4 +6,5 @@
 Using Clion, CLion -> Preferences -> Build, Execution, Development -> CMake -> add "-DCMAKE_CXX_FLAGS="-std=c++11" to CMake Options.
 
 [Add flag on CLion](https://www.jetbrains.com/help/clion/how-to-switch-compilers-in-clion.html)
+
 [Error Solution Website](https://github.com/BVLC/caffe/issues/6358)
