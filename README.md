@@ -16,5 +16,5 @@ Using Clion, CLion -> Preferences -> Build, Execution, Development -> CMake -> a
 **Solution**
 * Change cable
 * Release stastic electricity
-* Reset NVRAM (memory that Mac uses to store certain settings and access them quickly)[NVRAM](https://support.apple.com/en-us/HT204063)
-* Reset SMC [SMC](https://support.apple.com/en-us/HT201295)
+* Reset [NVRAM](https://support.apple.com/en-us/HT204063) (memory that Mac uses to store certain settings and access them quickly)
+* Reset [SMC](https://support.apple.com/en-us/HT201295)
